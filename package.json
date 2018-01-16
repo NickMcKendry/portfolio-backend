@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NickMcKendry/portfolio-backend.git",
+  "author": "Nick McKendry <nickmckendry@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "sparkpost": "^2.1.2"
+  }
+}
